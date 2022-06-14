@@ -42,5 +42,5 @@ and you will be connected to the software
 
 
 <p align="center">
-  <img width="1920x1080" src="https://user-images.githubusercontent.com/59067764/173642484-c2ee185d-168e-4a4b-91f6-49590f0c2aff.png" alt="Wallpaper logo">
+  <img width="1920x1080" src="https://cdn.discordapp.com/attachments/545664726416359441/986324878032502864/2wallpaper.png" alt="Wallpaper logo">
 </p>
