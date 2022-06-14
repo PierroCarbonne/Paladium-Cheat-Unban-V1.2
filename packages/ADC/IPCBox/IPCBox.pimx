@@ -1,0 +1,31 @@
+<package_installation_info version="2.0">	
+<packageid>52281401-5907-4725-ABDB-F3238AB4F373</packageid> 
+ <name>IPCBox</name>
+<version>5.4.1.533</version>
+	<target_location>/IPCBox/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>IPCBox</name>
+			<assets_size>6538805</assets_size>
+			<modifiers>
+				<install_modifier>
+					   <executable_path>customhook\AdobeIPCBrokerCustomhook.exe</executable_path>
+						<arguments>
+							<argument>-install</argument>
+						</arguments>
+			   </install_modifier>
+				<uninstall_modifier>
+					   <executable_path>customhook\AdobeIPCBrokerCustomhook.exe</executable_path>
+						<arguments>
+							<argument>-uninstall</argument>
+						</arguments>
+			   </uninstall_modifier>
+		    </modifiers>
+            <validation_info>
+                <validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PEZpbGU+PEluc3RhbGxQYXRoPkFkb2JlSVBDQnJva2VyLmV4ZTwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMue3x9RGlnaUNlcnQgRVYgQ29kZSBTaWduaW5nIENBIChTSEEyKXt8fURpZ2lDZXJ0IEhpZ2ggQXNzdXJhbmNlIEVWIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjxGaWxlPjxJbnN0YWxsUGF0aD5DUkNsaWVudC5kbGw8L0luc3RhbGxQYXRoPjxTaWduYXR1cmVUeXBlPkRpZ2l0YWxTaWduYXR1cmU8L1NpZ25hdHVyZVR5cGU+PFNpZ25hdHVyZUluZm8+QWRvYmUgSW5jLnt8fURpZ2lDZXJ0IEVWIENvZGUgU2lnbmluZyBDQSAoU0hBMil7fH1EaWdpQ2VydCBIaWdoIEFzc3VyYW5jZSBFViBSb290IENBPC9TaWduYXR1cmVJbmZvPjwvRmlsZT48RmlsZT48SW5zdGFsbFBhdGg+Q1JMb2dUcmFuc3BvcnQuZXhlPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIEluYy57fH1EaWdpQ2VydCBFViBDb2RlIFNpZ25pbmcgQ0EgKFNIQTIpe3x9RGlnaUNlcnQgSGlnaCBBc3N1cmFuY2UgRVYgUm9vdCBDQTwvU2lnbmF0dXJlSW5mbz48L0ZpbGU+PEZpbGU+PEluc3RhbGxQYXRoPkNSV2luZG93c0NsaWVudFNlcnZpY2UuZXhlPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIEluYy57fH1EaWdpQ2VydCBFViBDb2RlIFNpZ25pbmcgQ0EgKFNIQTIpe3x9RGlnaUNlcnQgSGlnaCBBc3N1cmFuY2UgRVYgUm9vdCBDQTwvU2lnbmF0dXJlSW5mbz48L0ZpbGU+PEZpbGU+PEluc3RhbGxQYXRoPmN1c3RvbWhvb2tcQWRvYmVJUENCcm9rZXJDdXN0b21Ib29rLmV4ZTwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMue3x9RGlnaUNlcnQgRVYgQ29kZSBTaWduaW5nIENBIChTSEEyKXt8fURpZ2lDZXJ0IEhpZ2ggQXNzdXJhbmNlIEVWIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjwvVmFsaWRhdGlvbkluZm8+</validation_xml>
+                <sig>QwcyBDEIo0LiShNKty4IDQkWc05iPgVBFdWP6y36cDH3772cJtB1xRCnx16Nz0b1x0h5j6eonm3x3b2goQC6VVTbvlJMjjzOZox61LY7hz/gIaFkNDa4Yq9KDHZyFPHDozPrMbCzdvwQ09/cgO3CVP/5a+jgQ3NkJ8Cfa6cBAUUiKjwfc/aVHDRLe5ISUjLvsO1KlFj5Lc1mYazhJ64ocO17veo8DFlGBNvwqZWCZg1OLWoEhVHRhYcvkQkGySN20qPDUCfSaR34Pe+mTtksToby5tHXl5zoB4qsiazWmYpyqqnuxY3yXWac2Y9eitb0W3vqw8jk6g/CxrMtUWucNSRM4Vc1jNJMxBghZ30EeIGXiP8OmT0IgQqg/6USldpEAXVtvZvM5s4TDiNs9t979nQwsDwg5Z8VsJ5tP4WinXCx91EM6c+y4WEOt1BG34WrbXYg45HpzhFowAT5bUoGSh3sBD3YfWlWNNBFx4SgI7OZC5dZ6lPE2B6cmfAvrawZ</sig>
+            </validation_info>
+        </pimaInfo>
+    </packages>
+</package_installation_info>
