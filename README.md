@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/59067764/173641315-9ceea0a0-0a8d-49ce-a701-8495139e0b0e.png" alt="Material Bread logo">
+  <img width="200" src="https://user-images.githubusercontent.com/59067764/173641315-9ceea0a0-0a8d-49ce-a701-8495139e0b0e.png" alt="logo">
 </p>
 
 # Paladium-Cheat-Unban
@@ -32,7 +32,8 @@ and you will be connected to the software
 > 5: Put the url after the login
 > 6: Wait
 > 7: Start Paladium
-> 8: Reconnect and paladium will make you re-install their game 
+> 8: Reconnect and paladium will make you re-install
+ their game 
 > **And you will be unban**
 
 ## Support
@@ -40,3 +41,6 @@ and you will be connected to the software
 **<p align="center"><a href="https://discord.gg/T6TqutY4cW">Support2</a></p>**
 
 
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/59067764/173642484-c2ee185d-168e-4a4b-91f6-49590f0c2aff.png" alt="Wallpaper logo">
+</p>
