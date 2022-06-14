@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img width="200" src="http://material-bread.org/logo-shadow.svg](https://user-images.githubusercontent.com/59067764/173641315-9ceea0a0-0a8d-49ce-a701-8495139e0b0e.png" alt="Material Bread logo">
+</p>
+
 # Paladium-Cheat-Unban
 > It is an easy to use software which is in beta for the moment
 
@@ -31,7 +36,7 @@ and you will be connected to the software
 > **And you will be unban**
 
 ## Support
-**<p align="center"><a ref="https://discord.gg/uFKTmq3sfP">Support</a></p>**
-**<p align="center"><a ref="https://discord.gg/T6TqutY4cW">Support2</a></p>**
+**<p align="center"><a href="https://discord.gg/uFKTmq3sfP">Support</a></p>**
+**<p align="center"><a href="https://discord.gg/T6TqutY4cW">Support2</a></p>**
 
 
