@@ -1,0 +1,8 @@
+pynput
+dhooks
+pystyle
+colorama
+wget
+tqdm
+mcuuid
+pycopy-webbrowser
