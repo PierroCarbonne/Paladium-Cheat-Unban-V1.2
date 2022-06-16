@@ -14,13 +14,13 @@ V1.1
  = Xray
  * Unban bug solved
  ```
- V1.2
- ```
- = Xray
- = Unban
- + Killaura
- ```
-# Paladium-Cheat-Unban
+V1.2
+```
+= Xray
+= Unban
++ Killaura/ Cheat nAteX-Mod
+```
+# Paladium-Cheat-Unban V1.2
 > It is an easy to use software which is in beta for the moment
 
 ## IMPORTANT ALWAYS KEEP data.exe OPEN RISK OF PALADIUM DETECTING YOU
