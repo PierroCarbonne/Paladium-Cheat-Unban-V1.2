@@ -2,7 +2,10 @@
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/59067764/173641315-9ceea0a0-0a8d-49ce-a701-8495139e0b0e.png" alt="logo">
 </p>
-
+#### updates
+> V1.0
+>
+> V1.1 Bug Detect 
 # Paladium-Cheat-Unban
 > It is an easy to use software which is in beta for the moment
 
